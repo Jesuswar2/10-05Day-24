@@ -1,0 +1,23 @@
+body{
+    background-color: pink;   
+}
+/*
+border: 1px solid orange;
+    box-shadow: 5px 5px 5px greenyellow;
+    border: 3px dotted skyblue;  
+*/
+h1{
+    color: pink;
+    font-size: 30px;
+}
+
+#caja{
+    display: flex;
+    justify-content: center;
+}
+#tit{
+    font-size: 50px;
+    color: crimson;
+    border: 4px dashed black;
+    font-family: Arial, Helvetica, sans-serif;
+}
